@@ -1,0 +1,6 @@
+pip
+jax[cpu]
+flax
+matplotlib
+optax==0.1.7
+scikit-optimize
