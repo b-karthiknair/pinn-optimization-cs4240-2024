@@ -3,7 +3,7 @@
 
 The repository focus on code reproduction of the paper [Solving real‑world optimization tasks using physics‑informed neural computing](https://www.nature.com/articles/s41598-023-49977-3.pdf). For the task of The physics‑informed neural network (PINN) is implemented on the [Google JAX](https://github.com/google/jax) framework, from scratch (inspired by [this](https://github.com/tud-phi/ics-pa-sv?tab=readme-ov-file) repository). 
 
-> *Link to blog post: [link](medium.com/@lohani.manan/9108df3b70f8)*
+> *Link to blog post: [link](https://medium.com/@lohani.manan/9108df3b70f8)*
 
 
 |Name|ID|Contact|Contribution|
