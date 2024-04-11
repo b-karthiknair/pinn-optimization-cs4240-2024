@@ -3,15 +3,15 @@
 
 The repository focus on code reproduction of the paper [Solving real‑world optimization tasks using physics‑informed neural computing](https://www.nature.com/articles/s41598-023-49977-3.pdf). For the task of The physics‑informed neural network (PINN) is implemented on the [Google JAX](https://github.com/google/jax) framework, from scratch (inspired by [this](https://github.com/tud-phi/ics-pa-sv?tab=readme-ov-file) repository). 
 
-> *Link to blog post: [link](dummy_blog_post.pdf)*
+> *Link to blog post: [link](medium.com/@lohani.manan/9108df3b70f8)*
 
 
 |Name|ID|Contact|Contribution|
 |-|-|-|-|
 |Karthik Biju Nair|5967333|k.bijunair@student.tudelft.nl|code replication, new data|
-|Akansha Mukherjee|5******|***@student.tudelft.nl|item1 item2 item3|
-|Manan Lohani|5******|***@student.tudelft.nl|item1 item2 item3|
-|Bakul Jangley|5******|***@student.tudelft.nl|item1 item2 item3|
+|Akansha Mukherjee|5973767|a.mukherjee-11@student.tudelft.nl|code reproduction,  code replication|
+|Manan Lohani|5915821|m.j.lohani@student.tudelft.nl|hyperparams check, code reproduction|
+|Bakul Jangley|6055826|bjangley@student.tudelft.nl|ablation study, code reproduction|
 
 ## Overview
 
