@@ -26,8 +26,6 @@ Physics-informed neural networks (PINNs) are a class of machine learning models 
 ## Repository Structure
 - `data` - Contains code from the original repository
 - `group_23` - Contains code re-implementation, hyperparams check, new data check, 
-- `analysis` - Contains code and results of hyperparams check, new data, and ablation study.
-
 
 ## Usage
 1. Clone the repository:
