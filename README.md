@@ -25,7 +25,9 @@ Physics-informed neural networks (PINNs) are a class of machine learning models 
 
 ## Repository Structure
 - `data` - Contains code from the original repository
-- `group_23` - Contains code re-implementation, hyperparams check, new data check, 
+- `group_23` - Contains code re-implementation, hyperparams check, new data check
+
+> ***Note**: We succeeded in reimplementing the inverting pendulum task on JAX. Despite our best efforts, we did not manage to do the same for the three other tasks. Thus, `pendulum.py` is the only file that runs successfully in the folder `reimplementation` in `group_23`.*
 
 ## Usage
 1. Clone the repository:
